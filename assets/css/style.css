@@ -230,3 +230,32 @@ ul.menu li a:hover {
 .footer p {
 	padding: 0 0 10px 0;
 }
+
+/* SHOW.HTML */
+
+.info_film_page {
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+
+.label {
+	font-size: 1.2em;
+}
+
+.value {
+	font-size: 1em;
+	color: #49945a;
+	margin-right: 3%;
+}
+
+.description_film {
+	margin-bottom: 15%;
+}
+
+.description_film img {
+	float: left;
+	margin-right: 2%;
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+	width: 22%;
+}
